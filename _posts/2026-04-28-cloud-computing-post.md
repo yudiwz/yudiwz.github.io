@@ -2,7 +2,6 @@
 layout: post
 title: 'The Cloud-Native Frontier: How Lifebit is Redefining Scalable Biomedical Research'
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 mathjax: true
 author: Yudi Wang
